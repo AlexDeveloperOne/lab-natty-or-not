@@ -19,9 +19,9 @@ Utilizamos multiplos prompts fazendo refinamento sucessivo
 
 
 ## 🚀 Resultados
-Nosso resultado foi um podcas interessante com um assunto relevante à toda comunidade tech; no formato .mp4, .mp3 e .aac.
+Nosso resultado foi um podcast interessante com um assunto relevante à toda comunidade tech; no formato .mp4, .mp3 e .aac.
 
 ## 💭 Reflexão (Opcional)
 Esse projeto fomenta nossa criatividade, e nos faz entrar naquilo que o próprio podcast diz: "Conectar teoria e a prática"!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U8N7ZczRMeM" frameborder="0" allowfullscreen></iframe>
+[Link para o projeto](https://www.youtube.com/embed/U8N7ZczRMeM)
